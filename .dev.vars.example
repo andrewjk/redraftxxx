@@ -1,0 +1,13 @@
+# Initial setup credentials
+
+USERNAME=username
+PASSWORD=password
+
+# Your site's URL, used for sharing etc
+
+SITE_LOCATION=https://example.com/
+
+# Set a passphrase for encrypting your user token when logged in, and the user tokens you share with contacts
+
+JWT_SECRET=secret_key
+JWT_SECRET_2=secret_contact_key
